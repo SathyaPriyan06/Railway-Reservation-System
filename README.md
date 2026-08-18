@@ -1,7 +1,7 @@
 # Railway-Reservation-System
 
-# Reg No:
-# Name:
+# Reg No:212225230255
+# Name:S.Sathya Priyan
 # Date:
 
 
@@ -41,6 +41,7 @@ Specifying the context and requirements of a system
 
 
 
+<img width="818" height="907" alt="image" src="https://github.com/user-attachments/assets/64f8ff21-46e0-40f4-a071-55557eed05ca" />
 
 
 
@@ -59,6 +60,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="669" height="902" alt="image" src="https://github.com/user-attachments/assets/b5895d45-f925-4943-ab15-647ca6acd1b9" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -67,6 +69,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
+<img width="1299" height="906" alt="image" src="https://github.com/user-attachments/assets/fe184e62-8361-4c06-a037-71f93a69428f" />
 
 
 
@@ -80,6 +83,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+<img width="865" height="900" alt="image" src="https://github.com/user-attachments/assets/d43bb0df-93fe-4105-834b-c3abac8cc575" />
 
 
 
@@ -97,6 +101,7 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
+<img width="429" height="895" alt="image" src="https://github.com/user-attachments/assets/9c61fccb-d972-41ed-b5ef-428e2ceaf8c1" />
 
 
 
@@ -119,6 +124,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 Plan and understand the detailed functionality of an existing or future scenario.
 
 
+<img width="1176" height="826" alt="image" src="https://github.com/user-attachments/assets/93bb65ba-7b64-4d84-ab18-a2896a9a4695" />
 
 
 
